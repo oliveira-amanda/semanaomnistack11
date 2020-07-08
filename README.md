@@ -2,7 +2,7 @@
 
 ## 🗒  Sobre
 
-Nos dias 23 a 27 de março de 2020, foi realizada a 11ª *Semana Omnistack*. Durante este semana foi desenvolvida uma aplicação chamada **Be The Hero**, que tem como objetivo conectar pessoas (que queiram ajudar causas sociais) e ONGs (Organização não governamental, sem fins lucrativos). 
+Nos dias 23 a 27 de março de 2020 foi realizada a 11ª *Semana Omnistack*. Durante esta semana foi desenvolvida uma aplicação chamada **Be The Hero**, que tem como objetivo conectar pessoas (que queiram ajudar causas sociais) e ONGs (Organização não governamental, sem fins lucrativos). 
 
 ## 🔧 Tecnologias utilizadas:
 
