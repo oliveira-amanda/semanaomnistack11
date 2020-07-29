@@ -27,10 +27,10 @@ $ cd aulas
 $ cd backend
 
 #Instalar dependências
-$ yarn
+$ npm install
 
 #Executar aplicação
-$ yarn dev
+$ npm start
 
 #Acesse no browser via
 http://localhost:3333 
@@ -45,10 +45,10 @@ $ cd aulas
 $ cd frontend
 
 #Instalar dependências
-$ yarn
+$ npm install
 
 #Executar aplicação
-$ yarn dev
+$ npm start
 
 #Acesse no browser via
 http://localhost:3000
@@ -63,7 +63,7 @@ $ cd aulas
 $ cd mobile
 
 #Instalar dependências
-$ yarn
+$ npm install
 
 #Executar aplicação
 $ expo start
